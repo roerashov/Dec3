@@ -1,0 +1,6 @@
+Дата и время: 2023-10-16  00:40
+Функция scrap:
+Параметры: (5,)
+Результат функции: {'vacancy': [{'company name': 'Tevian (ООО Технологии видеоанализа)', 'city': 'Москва', 'position': 'Middle Backend разработчик (Python + Golang)', 'salary range': '200 000 – 285 000  ₽', 'link': 'https://spb.hh.ru/vacancy/87933114?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python'}, {'company name': 'ООО  Платформа Третье Мнение', 'city': 'Москва', 'position': 'Middle Python Developer', 'salary range': 'ЗП не указана', 'link': 'https://spb.hh.ru/vacancy/87735917?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python'}, {'company name': 'Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега', 'city': 'Санкт-Петербург', 'position': 'Программист Python', 'salary range': '70 000 – 250 000  ₽', 'link': 'https://spb.hh.ru/vacancy/86622525?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python'}]}
+Время выполнения составило: 0:03:12.188559
+
